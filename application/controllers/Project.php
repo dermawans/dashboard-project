@@ -39,7 +39,14 @@ class Project extends CI_Controller{
             'data_master_status'=>$this->model_app->getAllData('mstatus_project'),
             'data_master_priority'=>$this->model_app->getAllData('mpriority_project')
 			);
-		}  
+		} 
+		if($this->session->userdata('ROLEID') == '6') {  
+			$data=array(
+			'data_project'=>$this->model_app->getAllDataProjectPerTL(), 
+            'data_master_status'=>$this->model_app->getAllData('mstatus_project'),
+            'data_master_priority'=>$this->model_app->getAllData('mpriority_project')
+			);
+		}   
 		  
 		$data_header=array(
             'title'=>'Project',
@@ -57,7 +64,9 @@ class Project extends CI_Controller{
             'jumlah_all_project_expired' => $this->model_app->getCountAllExpiredProject()->num_rows(),
             'jumlah_allproject_qt' => $this->model_app->getCountAllprojectQT()->num_rows(),
             'jumlah_allproject_pmo' => $this->model_app->getCountAllprojectPMO()->num_rows(),
-            'jumlah_allproject_kordinator' => $this->model_app->getCountAllProjectKordinator()->num_rows()
+            'jumlah_allproject_kordinator' => $this->model_app->getCountAllProjectKordinator()->num_rows(),
+            
+            'data_master_info'=>$this->model_app->getSelectedData('tbl_minfo',array('isactive'=>1))->result()
 			 );  
 			 
 	 	//buatlog
@@ -116,6 +125,13 @@ class Project extends CI_Controller{
 			);
 		} 
 		
+		if($this->session->userdata('ROLEID') == '6') {  
+			$data=array(
+			'data_project'=>$this->model_app->getAllDataProjectPerTL(),
+            'projectallhistorydescription'=>$this->model_app->getDataProjectAllHistoryTLDescription(),
+			);
+		}   
+		  
 		$data_header=array(
             'title'=>'Project',
             'active_project'=>'active',
@@ -132,7 +148,9 @@ class Project extends CI_Controller{
             'jumlah_all_project_expired' => $this->model_app->getCountAllExpiredProject()->num_rows(),
             'jumlah_allproject_qt' => $this->model_app->getCountAllprojectQT()->num_rows(),
             'jumlah_allproject_pmo' => $this->model_app->getCountAllprojectPMO()->num_rows(),
-            'jumlah_allproject_kordinator' => $this->model_app->getCountAllProjectKordinator()->num_rows()
+            'jumlah_allproject_kordinator' => $this->model_app->getCountAllProjectKordinator()->num_rows(),
+            
+            'data_master_info'=>$this->model_app->getSelectedData('tbl_minfo',array('isactive'=>1))->result()
 			 ); 
 		  
 	 	//buatlog
@@ -190,7 +208,8 @@ class Project extends CI_Controller{
             'jumlah_all_project_expired' => $this->model_app->getCountAllExpiredProject()->num_rows(),
             'jumlah_allproject_qt' => $this->model_app->getCountAllprojectQT()->num_rows(),
             'jumlah_allproject_pmo' => $this->model_app->getCountAllprojectPMO()->num_rows(),
-            'jumlah_allproject_kordinator' => $this->model_app->getCountAllProjectKordinator()->num_rows()
+            'jumlah_allproject_kordinator' => $this->model_app->getCountAllProjectKordinator()->num_rows(),
+            'data_master_info'=>$this->model_app->getSelectedData('tbl_minfo',array('isactive'=>1))->result()
 			 );  
 		
 		
@@ -259,6 +278,13 @@ class Project extends CI_Controller{
 			);
 		} 
 		
+		if($this->session->userdata('ROLEID') == '6') {  
+			$data=array(
+			'data_project'=>$this->model_app->getAllDataProjectPerTL(),
+            'projectallhistorydescription'=>$this->model_app->getDataProjectAllHistoryTLDescription(),
+            'laststatusprojecthistory'=>$this->model_app->getLastStatusProjectTLHistory(),  
+			);
+		}   
 		$data_header=array(
             'title'=>'Project',
             'active_project'=>'active',
@@ -275,7 +301,8 @@ class Project extends CI_Controller{
             'jumlah_all_project_expired' => $this->model_app->getCountAllExpiredProject()->num_rows(),
             'jumlah_allproject_qt' => $this->model_app->getCountAllprojectQT()->num_rows(),
             'jumlah_allproject_pmo' => $this->model_app->getCountAllprojectPMO()->num_rows(),
-            'jumlah_allproject_kordinator' => $this->model_app->getCountAllProjectKordinator()->num_rows()
+            'jumlah_allproject_kordinator' => $this->model_app->getCountAllProjectKordinator()->num_rows(), 
+            'data_master_info'=>$this->model_app->getSelectedData('tbl_minfo',array('isactive'=>1))->result()
 			 ); 
 			 
 
@@ -754,6 +781,112 @@ class Project extends CI_Controller{
 				} else {
 				redirect('project');
 				}
+			}
+		}
+	}
+
+
+	//INSERT TL UPDATE
+    function tl_update(){
+		if ($this->session->userdata('ROLEID') == '6') {  
+ 
+			$updatehistory['isactive'] = '0'; 
+			$this->db->where('id_history',$this->input->post('id_history'));
+			$this->db->update('projecthistory', $updatehistory);
+			    
+			$data['kd_project'] = $this->input->post('kd_project');
+			$data['id_qtname'] = $this->input->post('id_qtname');
+			$data['id_pmoname'] = $this->input->post('id_pmoname');
+			$data['status_project'] = $this->input->post('status_project'); 
+			$data['priority'] = $this->input->post('priority');
+			$data['st_awal'] = $this->input->post('st_awal');
+			$data['st_akhir'] = $this->input->post('st_akhir');
+			$data['description'] = $this->input->post('description'); 
+			$data['isactive'] = '1';
+			$data['create_date'] = date('Y-m-d H:i:s'); 
+			$data['create_by'] = $this->input->post('create_by');  
+			$data['isread_by_qt'] = '0'; 
+			//fungsi upload file 
+			 
+			$nmfilePMO = $this->input->post('kd_project')."-".$this->input->post('projectname')."-Feedback_PMO-".date('Y-m-d H:i:s');  
+			$configPMO['allowed_types'] = 'zip';   
+			$configPMO['max_size'] = 10024; 
+			$configPMO['upload_path'] = 'assets/file-project/'; 
+			$configPMO['file_name'] = $nmfilePMO; 
+	 		 
+			$this->upload->initialize($configPMO);
+			if ($_FILES['fileupload']['size'] > 0)
+			{ 
+				if ($this->upload->do_upload('fileupload'))
+				{  
+					$fileproject = $this->upload->data();
+					$data['file_project'] = $fileproject['file_name'];;
+					$this->session->set_flashdata('notif-upload-sukses','File sukses diupload'); 
+					
+					//buatlog
+					$info='applog'; 
+					$datalog = array(
+					'username'=>$this->session->userdata('USERNAME'),
+					'berita'=>'file berhasil upload', 
+					);  
+					$dlog=array_merge($datalog,$data);
+					$this->model_log->logAction($info,$dlog); 
+					//buatlog
+				}
+				else
+				{
+					$data['file_project'] = NULL;
+					$this->session->set_flashdata('notif-upload-gagal','File gagal diupload'); 
+					
+					//buatlog
+					$info='applog'; 
+					$datalog = array(
+					'username'=>$this->session->userdata('USERNAME'),
+					'berita'=>'file gagal upload', 
+					);  
+					$dlog=array_merge($datalog,$data);
+					$this->model_log->logAction($info,$dlog); 
+					//buatlog
+				}	
+			}
+			else
+			{
+				$data['file_project'] = NULL;
+			}
+       		//fungsi upload file			
+			$table="projecthistory";
+			$proses=$this->model_app->insertData($table,$data);
+			if ($proses == TRUE)
+			{
+				
+				//buatlog
+				$info='applog'; 
+				$datalog = array(
+				'username'=>$this->session->userdata('USERNAME'),
+				'berita'=>'update data berhasil', 
+				);  
+				$dlog=array_merge($datalog,$data);
+				$this->model_log->logAction($info,$dlog); 
+				//buatlog
+
+				$this->session->set_flashdata('notif-sukses','Update berhasil ditambahkan'); 
+				redirect('project'); 
+			}
+			else
+			{
+
+				//buatlog
+				$info='applog'; 
+				$datalog = array(
+				'username'=>$this->session->userdata('USERNAME'),
+				'berita'=>'update data gagal', 
+				);  
+				$dlog=array_merge($datalog,$data);
+				$this->model_log->logAction($info,$dlog); 
+				//buatlog				
+				
+				$this->session->set_flashdata('notif-gagal','Update gagal ditambahkan'); 
+				redirect('project'); 
 			}
 		}
 	}

@@ -1,0 +1,389 @@
+ERROR - 2018-04-26 08:53:24 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 08:53:34 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|berhasil login|
+APPLOG - 2018-04-26 08:53:34 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 08:54:07 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 08:54:27 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/update_project/P000000035/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman update project|
+APPLOG - 2018-04-26 08:54:33 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 08:54:48 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/update_project/P000000035/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman update project|
+ERROR - 2018-04-26 08:58:13 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 09:02:08 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 09:21:54 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/update_project/P000000035/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman update project|
+APPLOG - 2018-04-26 09:22:15 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|update data berhasil|P000000035|4|7|8|5|2018-05-02|2018-05-11|assign to budi<br>|1|2018-04-26 09:22:15|5|0||
+APPLOG - 2018-04-26 09:22:15 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+ERROR - 2018-04-26 09:22:17 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 09:22:21 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>login/cek_login/<br><b>Data:</b>budi|gagal login, salah captcha|
+APPLOG - 2018-04-26 09:22:33 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>login/cek_login/<br><b>Data:</b>budi|gagal login salah username atau password|
+APPLOG - 2018-04-26 09:22:46 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|berhasil login|
+APPLOG - 2018-04-26 09:22:47 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 09:22:51 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman list project|
+APPLOG - 2018-04-26 09:22:55 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/update_project/P000000035/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman update project|
+APPLOG - 2018-04-26 09:23:28 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|update data berhasil|P000000035|4|7|6|5|2018-05-02|2018-05-11|<br>|1|2018-04-26 09:23:28|4|0||
+APPLOG - 2018-04-26 09:23:28 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman list project|
+APPLOG - 2018-04-26 09:24:27 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 09:24:35 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/view_project/P000000035/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman view project|
+ERROR - 2018-04-26 09:27:29 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 09:27:51 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>login/cek_login/<br><b>Data:</b>hesty|gagal login salah username atau password|
+APPLOG - 2018-04-26 09:28:04 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|berhasil login|
+APPLOG - 2018-04-26 09:28:04 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 09:28:14 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman list project|
+APPLOG - 2018-04-26 09:28:40 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/view_project/P000000034/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman view project|
+APPLOG - 2018-04-26 09:28:49 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman list project|
+APPLOG - 2018-04-26 09:29:12 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman list project|
+APPLOG - 2018-04-26 09:35:50 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/update_project/P000000035/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman update project|
+APPLOG - 2018-04-26 10:28:55 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 10:36:35 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 10:37:12 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/update_project/P000000014/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman update project|
+APPLOG - 2018-04-26 10:37:21 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+ERROR - 2018-04-26 11:19:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-04-26 11:19:24 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 11:19:48 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|berhasil login|
+APPLOG - 2018-04-26 11:19:48 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 11:19:53 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|masuk ke halaman list project|
+APPLOG - 2018-04-26 11:19:58 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/update_project/P000000022/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|masuk ke halaman update project|
+APPLOG - 2018-04-26 11:20:41 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|update data berhasil|P000000022|3|7|3|5|2018-04-04|2018-04-30|<ul><li>Settingan dikembalikan ke normal</li><li>Menyiapkan setting database recon<br></li></ul>|1|2018-04-26 11:20:41|3|0||
+APPLOG - 2018-04-26 11:20:41 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|masuk ke halaman list project|
+APPLOG - 2018-04-26 11:36:57 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|berhasil login|
+APPLOG - 2018-04-26 11:36:57 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>dashboard/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 11:38:04 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>project/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|masuk ke halaman list project|
+APPLOG - 2018-04-26 12:02:13 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>icl/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk halaman icl|
+APPLOG - 2018-04-26 12:03:41 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman dashboard|
+ERROR - 2018-04-26 12:07:24 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 12:07:41 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|berhasil login|
+APPLOG - 2018-04-26 12:07:41 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>dashboard/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 12:08:07 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>dashboard/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 12:08:15 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>users/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk ke halaman user|
+APPLOG - 2018-04-26 12:08:29 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>users/change_password/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|password berhasil dirubah|553f70a2b4c2c96958027e30d04939db|
+APPLOG - 2018-04-26 12:08:29 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>users/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk ke halaman user|
+ERROR - 2018-04-26 12:08:44 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 12:09:00 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|berhasil login|
+ERROR - 2018-04-26 12:09:00 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 12:09:01 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299<br><b>URI:</b>dashboard/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk ke halaman dashboard|
+ERROR - 2018-04-26 12:09:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-04-26 12:10:20 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 12:10:23 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299<br><b>URI:</b>dashboard/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk ke halaman dashboard|
+ERROR - 2018-04-26 12:10:24 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 12:10:40 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299<br><b>URI:</b>login/logout/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|berhasil logout|
+ERROR - 2018-04-26 12:10:40 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 12:11:06 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>icl/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk halaman icl|
+APPLOG - 2018-04-26 12:11:23 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>icl/view_icl/ICL0000001/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk halaman view icl|
+APPLOG - 2018-04-26 12:11:38 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>icl/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk halaman icl|
+APPLOG - 2018-04-26 12:11:44 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>icl/view_icl/ICL0000002/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk halaman view icl|
+APPLOG - 2018-04-26 12:12:41 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>icl/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk halaman icl|
+APPLOG - 2018-04-26 12:12:49 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>icl/view_icl/ICL0000001/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk halaman view icl|
+APPLOG - 2018-04-26 12:13:13 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>icl/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk halaman icl|
+APPLOG - 2018-04-26 12:15:32 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36<br><b>URI:</b>icl/<br><b>User ID:</b>14<br><b>Username:</b>Fachroni<br><b>Role ID:</b>6<br><b>Data:</b>Fachroni|masuk halaman icl|
+APPLOG - 2018-04-26 12:50:49 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|berhasil login|
+APPLOG - 2018-04-26 12:50:49 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 12:50:55 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman list project|
+APPLOG - 2018-04-26 12:51:07 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/view_project/P000000018/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman view project|
+APPLOG - 2018-04-26 12:51:47 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman list project|
+APPLOG - 2018-04-26 12:51:57 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/update_project/P000000018/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman update project|
+APPLOG - 2018-04-26 12:52:26 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/pmo_update/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|update data berhasil|P000000018|3|9|10|5|2017-11-27|2018-04-18|<p>hold<br></p>|1|2018-04-26 12:52:26|9|0||
+APPLOG - 2018-04-26 12:52:26 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman list project|
+APPLOG - 2018-04-26 13:00:05 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>login/cek_login/<br><b>Data:</b>budi|gagal login, salah captcha|
+APPLOG - 2018-04-26 13:00:17 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|berhasil login|
+APPLOG - 2018-04-26 13:00:17 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman dashboard|
+ERROR - 2018-04-26 13:36:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-04-26 13:36:16 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 13:36:54 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|berhasil login|
+APPLOG - 2018-04-26 13:36:54 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 13:36:59 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman list project|
+APPLOG - 2018-04-26 13:37:02 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/update_project/P000000033/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman update project|
+APPLOG - 2018-04-26 13:37:17 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|update data berhasil|P000000033|1|7|6|4|2018-04-25|2018-04-30|assign to basga<br>|1|2018-04-26 13:37:17|1|0||
+APPLOG - 2018-04-26 13:37:17 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman list project|
+APPLOG - 2018-04-26 13:51:09 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|berhasil login|
+APPLOG - 2018-04-26 13:51:09 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>dashboard/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 13:51:19 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>project/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|masuk ke halaman list project|
+APPLOG - 2018-04-26 13:56:50 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>project/add_project/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|create core project berhasil|P000000036|PLN - Internal : update flow Incaso|7|2018-04-26 13:56:50|
+APPLOG - 2018-04-26 13:56:50 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>project/add_project/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|upload file gagal|P000000036|7|8|3|2018-04-27|2018-05-04|<p>Dear Team QT,</p><p>Terkait dengan adanya update flow untuk jasa incaso ini (termasuk update 
+aplikasi core ballance dan ada aplikasi middleware) mohon bantuannya untuk dapat melakukan testing flow baru ini. dimana sesuai informasi dari team Dev :<br><br>Untuk aplikasi balance core sekarang dapat mensupport 2 format bit 48 
+yaitu dari core dan dari mw incaso.
+<br>dari mw incaso terdapat penambahan field baru yaitu amount, penambahan 
+amount dan blth.
+<br>untuk kolom penambahan amount dan blth akan dimasukan ke dalam table 
+balance history.
+<br>
+<br>Untuk pengetesan aplikasi mw incaso, semua hal yang berhubungan dengan 
+balance pada aplikasi core juga harus dapat di support oleh aplikasi 
+mw incaso ini, dan memiliki karakteristik yang sama dengan core.
+<br>sebagai contoh.
+<br>- Global
+<br>  1. Saat payment, aplikasi harus meminta pemotongan dana
+<br>- Postpaid & Nontaglis
+<br>  1. Saat payment tidak di response harus melakukan reverse dana.
+<br>  2. Saat payment mendapatkan response selain sukses akan melakukan 
+reverse dana.
+<br>  3. Saat mendapatkan reversal sukses harus melakukan reverse dan, 
+tetapi hanya boleh sekali yang sukses.
+<br>  4.
+<br>- Prepaid
+<br>  1. Saat payment tidak di response harus melakukan tahan dana
+<br>  2. Saat payment mendapat response selain sukses dan tidak terdaftar 
+di prepaid-refund-rc harus melakukan tahan dana.
+<br>  3. Saat payment mendapat response selain sukses dan terdaftar di 
+prepaid-refund-rc harus melakukan reverse dana
+<br>
+<br>Kemudian testing fungsi-fungsi dasar dan tambahan seperti.
+<br>1. Pesan yang dikirimkan ke core sesuai dengan konfigurasi dan dapat 
+memproses pesan response nya.
+<br>2. Pesan yang di response tidak dikembalikan ke koneksi CA yang berbeda.
+<br>3. Data-data yang diinsert ke balance history sesuai, seperti CA ID, 
+product ID dan lainnya.
+<br>4. Waktu timeout yang di konfigurasi per CA dapat berjalan seperti 
+yang di konfigurasi.
+<br>5. Penambahan ataupun pengurangan pemotongan dana sesuai dengan 
+konfigurasi.
+<br>6. Untuk product postpaid, pemotongan atau pengurangan dana harus 
+dikalikan dengan jumlah tagihannya.
+<br>7. Aplikasi dapat menerima pesan dari CA pada lebih dari 1 port.
+<br>8. Stress test aplikasi untuk memastikan messaging tidak tertukar dan 
+performance nya baik. <br><br><br>Untuk mengakomodir hal tersebut telah dilakukan pembuatan aplikasi 
+baru dan patch aplikasi core balance.
+<br>Aplikasi dapat diambil di server 74.
+<br>Application name : MW INCASO
+<br>Version                 : 201804251855
+<br>
+<br>Application name : Core Balance
+<br>Version                 : 201804091045
+<br>
+<br>aplikasi MW Incaso harus dapat mengakomodir semua case yang 
+berhubungan dengan balance pada core PLN. <br></p>|1|7|2018-04-26 13:56:50|0||
+APPLOG - 2018-04-26 13:56:50 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>project/add_project/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|create core project history berhasil|P000000036|7|8|3|2018-04-27|2018-05-04|<p>Dear Team QT,</p><p>Terkait dengan adanya update flow untuk jasa incaso ini (termasuk update 
+aplikasi core ballance dan ada aplikasi middleware) mohon bantuannya untuk dapat melakukan testing flow baru ini. dimana sesuai informasi dari team Dev :<br><br>Untuk aplikasi balance core sekarang dapat mensupport 2 format bit 48 
+yaitu dari core dan dari mw incaso.
+<br>dari mw incaso terdapat penambahan field baru yaitu amount, penambahan 
+amount dan blth.
+<br>untuk kolom penambahan amount dan blth akan dimasukan ke dalam table 
+balance history.
+<br>
+<br>Untuk pengetesan aplikasi mw incaso, semua hal yang berhubungan dengan 
+balance pada aplikasi core juga harus dapat di support oleh aplikasi 
+mw incaso ini, dan memiliki karakteristik yang sama dengan core.
+<br>sebagai contoh.
+<br>- Global
+<br>  1. Saat payment, aplikasi harus meminta pemotongan dana
+<br>- Postpaid & Nontaglis
+<br>  1. Saat payment tidak di response harus melakukan reverse dana.
+<br>  2. Saat payment mendapatkan response selain sukses akan melakukan 
+reverse dana.
+<br>  3. Saat mendapatkan reversal sukses harus melakukan reverse dan, 
+tetapi hanya boleh sekali yang sukses.
+<br>  4.
+<br>- Prepaid
+<br>  1. Saat payment tidak di response harus melakukan tahan dana
+<br>  2. Saat payment mendapat response selain sukses dan tidak terdaftar 
+di prepaid-refund-rc harus melakukan tahan dana.
+<br>  3. Saat payment mendapat response selain sukses dan terdaftar di 
+prepaid-refund-rc harus melakukan reverse dana
+<br>
+<br>Kemudian testing fungsi-fungsi dasar dan tambahan seperti.
+<br>1. Pesan yang dikirimkan ke core sesuai dengan konfigurasi dan dapat 
+memproses pesan response nya.
+<br>2. Pesan yang di response tidak dikembalikan ke koneksi CA yang berbeda.
+<br>3. Data-data yang diinsert ke balance history sesuai, seperti CA ID, 
+product ID dan lainnya.
+<br>4. Waktu timeout yang di konfigurasi per CA dapat berjalan seperti 
+yang di konfigurasi.
+<br>5. Penambahan ataupun pengurangan pemotongan dana sesuai dengan 
+konfigurasi.
+<br>6. Untuk product postpaid, pemotongan atau pengurangan dana harus 
+dikalikan dengan jumlah tagihannya.
+<br>7. Aplikasi dapat menerima pesan dari CA pada lebih dari 1 port.
+<br>8. Stress test aplikasi untuk memastikan messaging tidak tertukar dan 
+performance nya baik. <br><br><br>Untuk mengakomodir hal tersebut telah dilakukan pembuatan aplikasi 
+baru dan patch aplikasi core balance.
+<br>Aplikasi dapat diambil di server 74.
+<br>Application name : MW INCASO
+<br>Version                 : 201804251855
+<br>
+<br>Application name : Core Balance
+<br>Version                 : 201804091045
+<br>
+<br>aplikasi MW Incaso harus dapat mengakomodir semua case yang 
+berhubungan dengan balance pada core PLN. <br></p>|1|7|2018-04-26 13:56:50|0||
+APPLOG - 2018-04-26 13:56:52 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>project/add_project/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|email project berhasil dikirim|P000000036|7|8|3|2018-04-27|2018-05-04|<p>Dear Team QT,</p><p>Terkait dengan adanya update flow untuk jasa incaso ini (termasuk update 
+aplikasi core ballance dan ada aplikasi middleware) mohon bantuannya untuk dapat melakukan testing flow baru ini. dimana sesuai informasi dari team Dev :<br><br>Untuk aplikasi balance core sekarang dapat mensupport 2 format bit 48 
+yaitu dari core dan dari mw incaso.
+<br>dari mw incaso terdapat penambahan field baru yaitu amount, penambahan 
+amount dan blth.
+<br>untuk kolom penambahan amount dan blth akan dimasukan ke dalam table 
+balance history.
+<br>
+<br>Untuk pengetesan aplikasi mw incaso, semua hal yang berhubungan dengan 
+balance pada aplikasi core juga harus dapat di support oleh aplikasi 
+mw incaso ini, dan memiliki karakteristik yang sama dengan core.
+<br>sebagai contoh.
+<br>- Global
+<br>  1. Saat payment, aplikasi harus meminta pemotongan dana
+<br>- Postpaid & Nontaglis
+<br>  1. Saat payment tidak di response harus melakukan reverse dana.
+<br>  2. Saat payment mendapatkan response selain sukses akan melakukan 
+reverse dana.
+<br>  3. Saat mendapatkan reversal sukses harus melakukan reverse dan, 
+tetapi hanya boleh sekali yang sukses.
+<br>  4.
+<br>- Prepaid
+<br>  1. Saat payment tidak di response harus melakukan tahan dana
+<br>  2. Saat payment mendapat response selain sukses dan tidak terdaftar 
+di prepaid-refund-rc harus melakukan tahan dana.
+<br>  3. Saat payment mendapat response selain sukses dan terdaftar di 
+prepaid-refund-rc harus melakukan reverse dana
+<br>
+<br>Kemudian testing fungsi-fungsi dasar dan tambahan seperti.
+<br>1. Pesan yang dikirimkan ke core sesuai dengan konfigurasi dan dapat 
+memproses pesan response nya.
+<br>2. Pesan yang di response tidak dikembalikan ke koneksi CA yang berbeda.
+<br>3. Data-data yang diinsert ke balance history sesuai, seperti CA ID, 
+product ID dan lainnya.
+<br>4. Waktu timeout yang di konfigurasi per CA dapat berjalan seperti 
+yang di konfigurasi.
+<br>5. Penambahan ataupun pengurangan pemotongan dana sesuai dengan 
+konfigurasi.
+<br>6. Untuk product postpaid, pemotongan atau pengurangan dana harus 
+dikalikan dengan jumlah tagihannya.
+<br>7. Aplikasi dapat menerima pesan dari CA pada lebih dari 1 port.
+<br>8. Stress test aplikasi untuk memastikan messaging tidak tertukar dan 
+performance nya baik. <br><br><br>Untuk mengakomodir hal tersebut telah dilakukan pembuatan aplikasi 
+baru dan patch aplikasi core balance.
+<br>Aplikasi dapat diambil di server 74.
+<br>Application name : MW INCASO
+<br>Version                 : 201804251855
+<br>
+<br>Application name : Core Balance
+<br>Version                 : 201804091045
+<br>
+<br>aplikasi MW Incaso harus dapat mengakomodir semua case yang 
+berhubungan dengan balance pada core PLN. <br></p>|1|7|2018-04-26 13:56:50|0||
+APPLOG - 2018-04-26 13:56:52 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>project/add_project/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|data project berhasil ditambahkan|P000000036|7|8|3|2018-04-27|2018-05-04|<p>Dear Team QT,</p><p>Terkait dengan adanya update flow untuk jasa incaso ini (termasuk update 
+aplikasi core ballance dan ada aplikasi middleware) mohon bantuannya untuk dapat melakukan testing flow baru ini. dimana sesuai informasi dari team Dev :<br><br>Untuk aplikasi balance core sekarang dapat mensupport 2 format bit 48 
+yaitu dari core dan dari mw incaso.
+<br>dari mw incaso terdapat penambahan field baru yaitu amount, penambahan 
+amount dan blth.
+<br>untuk kolom penambahan amount dan blth akan dimasukan ke dalam table 
+balance history.
+<br>
+<br>Untuk pengetesan aplikasi mw incaso, semua hal yang berhubungan dengan 
+balance pada aplikasi core juga harus dapat di support oleh aplikasi 
+mw incaso ini, dan memiliki karakteristik yang sama dengan core.
+<br>sebagai contoh.
+<br>- Global
+<br>  1. Saat payment, aplikasi harus meminta pemotongan dana
+<br>- Postpaid & Nontaglis
+<br>  1. Saat payment tidak di response harus melakukan reverse dana.
+<br>  2. Saat payment mendapatkan response selain sukses akan melakukan 
+reverse dana.
+<br>  3. Saat mendapatkan reversal sukses harus melakukan reverse dan, 
+tetapi hanya boleh sekali yang sukses.
+<br>  4.
+<br>- Prepaid
+<br>  1. Saat payment tidak di response harus melakukan tahan dana
+<br>  2. Saat payment mendapat response selain sukses dan tidak terdaftar 
+di prepaid-refund-rc harus melakukan tahan dana.
+<br>  3. Saat payment mendapat response selain sukses dan terdaftar di 
+prepaid-refund-rc harus melakukan reverse dana
+<br>
+<br>Kemudian testing fungsi-fungsi dasar dan tambahan seperti.
+<br>1. Pesan yang dikirimkan ke core sesuai dengan konfigurasi dan dapat 
+memproses pesan response nya.
+<br>2. Pesan yang di response tidak dikembalikan ke koneksi CA yang berbeda.
+<br>3. Data-data yang diinsert ke balance history sesuai, seperti CA ID, 
+product ID dan lainnya.
+<br>4. Waktu timeout yang di konfigurasi per CA dapat berjalan seperti 
+yang di konfigurasi.
+<br>5. Penambahan ataupun pengurangan pemotongan dana sesuai dengan 
+konfigurasi.
+<br>6. Untuk product postpaid, pemotongan atau pengurangan dana harus 
+dikalikan dengan jumlah tagihannya.
+<br>7. Aplikasi dapat menerima pesan dari CA pada lebih dari 1 port.
+<br>8. Stress test aplikasi untuk memastikan messaging tidak tertukar dan 
+performance nya baik. <br><br><br>Untuk mengakomodir hal tersebut telah dilakukan pembuatan aplikasi 
+baru dan patch aplikasi core balance.
+<br>Aplikasi dapat diambil di server 74.
+<br>Application name : MW INCASO
+<br>Version                 : 201804251855
+<br>
+<br>Application name : Core Balance
+<br>Version                 : 201804091045
+<br>
+<br>aplikasi MW Incaso harus dapat mengakomodir semua case yang 
+berhubungan dengan balance pada core PLN. <br></p>|1|7|2018-04-26 13:56:50|0||
+APPLOG - 2018-04-26 13:56:52 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36<br><b>URI:</b>project/<br><b>User ID:</b>7<br><b>Username:</b>Irvan<br><b>Role ID:</b>3<br><b>Data:</b>Irvan|masuk ke halaman list project|
+APPLOG - 2018-04-26 14:04:13 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>login/cek_login/<br><b>Data:</b>nanda|gagal login, salah captcha|
+APPLOG - 2018-04-26 14:04:25 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|berhasil login|
+APPLOG - 2018-04-26 14:04:25 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 14:04:46 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 14:04:54 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 14:08:08 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 14:08:14 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/update_project/P000000036/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman update project|
+APPLOG - 2018-04-26 14:08:26 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 14:08:31 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/update_project/P000000036/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman update project|
+APPLOG - 2018-04-26 14:08:48 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/add_qt_pic/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|pic qt berhasil diassign|P000000036|7|4|8|3|2018-04-27|2018-05-04|assign to budi<br>|1|2018-04-26 14:08:48|5|0|
+APPLOG - 2018-04-26 14:08:48 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 14:11:35 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|berhasil login|
+APPLOG - 2018-04-26 14:11:35 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 15:21:56 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|berhasil login|
+APPLOG - 2018-04-26 15:21:57 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 15:48:49 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 15:53:39 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|berhasil login|
+APPLOG - 2018-04-26 15:53:39 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 15:53:44 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman list project|
+APPLOG - 2018-04-26 15:53:47 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/update_project/P000000033/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman update project|
+APPLOG - 2018-04-26 15:54:51 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|update data berhasil|P000000033|1|7|3|4|2018-04-25|2018-04-30|> Change request : perubahan header SUKSES <br>   - Ganti header semula 9 jadi 6 - done<br>   - test transaksi - SUKSES<br>        - echo test sukses<br>        - inquiry sukses<br>        - payment sukses<br>|1|2018-04-26 15:54:51|1|0||
+APPLOG - 2018-04-26 15:54:51 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman list project|
+APPLOG - 2018-04-26 15:55:48 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/update_project/P000000001/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman update project|
+APPLOG - 2018-04-26 15:56:01 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|update data berhasil|P000000001|1|8|3|5|2018-02-15|2018-04-27|Bank selftest : Monitor, cek log, cek error, kirim log<br>|1|2018-04-26 15:56:01|1|0||
+APPLOG - 2018-04-26 15:56:02 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman list project|
+APPLOG - 2018-04-26 15:59:24 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 16:14:30 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 16:14:49 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/update_project/P000000018/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman update project|
+APPLOG - 2018-04-26 16:14:55 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 16:29:00 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|berhasil login|
+APPLOG - 2018-04-26 16:29:00 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 16:29:06 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman list project|
+APPLOG - 2018-04-26 16:29:12 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/update_project/P000000036/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman update project|
+APPLOG - 2018-04-26 16:29:37 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|update data berhasil|P000000036|4|7|6|3|2018-04-27|2018-05-04|<br>|1|2018-04-26 16:29:37|4|0||
+APPLOG - 2018-04-26 16:29:37 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman list project|
+APPLOG - 2018-04-26 16:33:48 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 16:48:31 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 16:54:15 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/update_project/P000000020/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman update project|
+APPLOG - 2018-04-26 16:55:39 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|update data berhasil|P000000020|1|9|7|3|2017-12-12|2018-05-04|<p><font color="#000000">> Persiapan : Update aplikasi MW u/ update field TARGETID dan kebutuhan payment menggunakan ID ACCOUNT - on progress<br>  - test transaksi - SUKSES. Top up & Postpaid<br></font><br></p>|1|2018-04-26 16:55:39|1|0||
+APPLOG - 2018-04-26 16:55:39 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:02:48 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|masuk ke halaman list project|
+ERROR - 2018-04-26 17:06:12 --> 404 Page Not Found: Faviconico/index
+APPLOG - 2018-04-26 17:07:54 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0<br><b>URI:</b>login/cek_login/<br><b>Data:</b>|gagal login, salah captcha|
+APPLOG - 2018-04-26 17:08:09 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:08:19 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/send_report_qt/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|report berhasil kirim|
+APPLOG - 2018-04-26 17:08:19 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>1<br><b>Username:</b>Basga<br><b>Role ID:</b>1<br><b>Data:</b>Basga|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:08:20 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0<br><b>URI:</b>login/cek_login/<br><b>Data:</b>peny|gagal login salah username atau password|
+APPLOG - 2018-04-26 17:08:32 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0<br><b>URI:</b>login/cek_login/<br><b>Data:</b>peny|gagal login, salah captcha|
+APPLOG - 2018-04-26 17:08:51 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/update_project/P000000034/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|masuk ke halaman update project|
+APPLOG - 2018-04-26 17:08:55 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0<br><b>URI:</b>login/cek_login/<br><b>User ID:</b>2<br><b>Username:</b>Peny<br><b>Role ID:</b>1<br><b>Data:</b>Peny|berhasil login|
+APPLOG - 2018-04-26 17:08:55 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>2<br><b>Username:</b>Peny<br><b>Role ID:</b>1<br><b>Data:</b>Peny|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 17:09:06 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0<br><b>URI:</b>project/<br><b>User ID:</b>2<br><b>Username:</b>Peny<br><b>Role ID:</b>1<br><b>Data:</b>Peny|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:09:33 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|update data berhasil|P000000034|3|9|6|5|2018-04-25|2018-05-14|<ul><li>Config DB H2H</li><li>Tes inquiry,payment postpaid,prepaid,nontaglis sukses</li><li>Tes transaksi positif, negatif prepaid</li><li>Tes transaksi positif, negatif postpaid</li></ul>|1|2018-04-26 17:09:33|3|0||
+APPLOG - 2018-04-26 17:09:33 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:10:28 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0<br><b>URI:</b>project/update_project/P000000005/<br><b>User ID:</b>2<br><b>Username:</b>Peny<br><b>Role ID:</b>1<br><b>Data:</b>Peny|masuk ke halaman update project|
+APPLOG - 2018-04-26 17:13:14 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>dashboard/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman dashboard|
+APPLOG - 2018-04-26 17:13:17 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:13:36 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/view_project/P000000008/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman view project|
+APPLOG - 2018-04-26 17:13:42 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:15:49 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>2<br><b>Username:</b>Peny<br><b>Role ID:</b>1<br><b>Data:</b>Peny|update data berhasil|P000000005|2|6|3|3|2018-03-19|2018-04-27|request update script untuk mw,  pengetesan 1 cycle untuk pembelian pulsa dan paket data, memindahkan data menggunakan script dari dba (ada kendala saat menginsert script tidak dapat di eksekusi namun hal ini sudah solve), membandingkan hasil insert dengan file mapping yang di kirimkan oleh developer (data yang di insert ke tpayment syb sudah sesuai dengan mapping), pembuatan manual berdasarkan data transaksi yang di test, proses recon, rpt sudah terbentuk dan hasilnya sedang dalam pengecekan<br>|1|2018-04-26 17:15:49|2|0||
+APPLOG - 2018-04-26 17:15:49 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0<br><b>URI:</b>project/<br><b>User ID:</b>2<br><b>Username:</b>Peny<br><b>Role ID:</b>1<br><b>Data:</b>Peny|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:17:14 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/send_report_qt/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|report berhasil kirim|
+APPLOG - 2018-04-26 17:17:14 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>project/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:17:21 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/send_report_qt/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|report berhasil kirim|
+APPLOG - 2018-04-26 17:17:21 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0<br><b>URI:</b>project/<br><b>User ID:</b>5<br><b>Username:</b>Nanda<br><b>Role ID:</b>2<br><b>Data:</b>Nanda|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:17:24 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>login/logout/<br><b>User ID:</b>3<br><b>Username:</b>Dermawan<br><b>Role ID:</b>1<br><b>Data:</b>Dermawan|berhasil logout|
+APPLOG - 2018-04-26 17:18:25 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:18:30 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/update_project/P000000036/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman update project|
+APPLOG - 2018-04-26 17:18:43 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0<br><b>URI:</b>project/send_report_qt/<br><b>User ID:</b>2<br><b>Username:</b>Peny<br><b>Role ID:</b>1<br><b>Data:</b>Peny|report berhasil kirim|
+APPLOG - 2018-04-26 17:18:43 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0<br><b>URI:</b>project/<br><b>User ID:</b>2<br><b>Username:</b>Peny<br><b>Role ID:</b>1<br><b>Data:</b>Peny|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:19:43 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|update data berhasil|P000000036|4|7|6|3|2018-04-27|2018-05-04|configurasi core balance<br>update perubahan jar core balance<br>configurasi mw-incaso<br>|1|2018-04-26 17:19:43|4|0||
+APPLOG - 2018-04-26 17:19:43 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:19:47 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/update_project/P000000035/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman update project|
+APPLOG - 2018-04-26 17:20:26 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/qt_update/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|update data berhasil|P000000035|4|7|6|5|2018-05-02|2018-05-11|configurasi h2h <br><br>|1|2018-04-26 17:20:26|4|0||
+APPLOG - 2018-04-26 17:20:26 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:20:36 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/send_report_qt/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|report berhasil kirim|
+APPLOG - 2018-04-26 17:20:36 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>project/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|masuk ke halaman list project|
+APPLOG - 2018-04-26 17:20:48 --> <b>IP:</b>36.89.29.159<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0<br><b>URI:</b>login/logout/<br><b>User ID:</b>4<br><b>Username:</b>Budi<br><b>Role ID:</b>1<br><b>Data:</b>Budi|berhasil logout|
+APPLOG - 2018-04-26 17:22:29 --> <b>IP:</b>103.95.8.130<br><b>Browser:</b>Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0<br><b>URI:</b>login/logout/<br><b>User ID:</b>9<br><b>Username:</b>Hesty<br><b>Role ID:</b>4<br><b>Data:</b>Hesty|berhasil logout|
